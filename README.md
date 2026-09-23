@@ -32,8 +32,8 @@ The full assembly was built from a parts table and an interface/contact table de
 
 ## Assembly
 
-![Full CATIA assembly render](./images/assembly-render.png)
-(./images/assembly-render2.png)
+![CATIA assembly render](./images/assembly-render.png)
+![Full CATIA assembly render](./images/assembly-render2.png)
 
 *Complete assembled front-end structure — front wing, suspension, wheel and hub*
 
